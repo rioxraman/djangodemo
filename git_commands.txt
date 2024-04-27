@@ -1,0 +1,1434 @@
+(Get-Content -Path "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt" -TotalCount 100 | Select-Object -First 100 -Last 100 | ForEach-Object {[array]::Reverse($_)}) > last_100_commands_reversed.txt
+C:\Users\user\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline
+
+//////////////////////////////////////////////////////////////////////
+npm start
+npm i -g nodemon
+npm start
+git config --user.name "rioxraman"
+git config --global user.name "rioxraman"
+git config --global user.email "ramanpkgupta@gmail.com"
+npm start
+modukes
+modules
+python main.py
+npm start
+git add .
+git commit -m "passport js middleware"
+git push -u origin master
+ & 'C:\Users\user\AppData\Local\Programs\Python\Python39\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.python-2023.2.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '50231' '--' 'C:\Users\user\Desktop\modules\main.py' 
+ & 'C:\Users\user\AppData\Local\Programs\Python\Python39\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.python-2023.2.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '50244' '--' 'C:\Users\user\Desktop\modules\main.py' 
+ & 'C:\Users\user\AppData\Local\Programs\Python\Python39\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.python-2023.2.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '50260' '--' 'C:\Users\user\Desktop\modules\main.py' 
+python main.py
+npm start
+npm i connect-mongo
+npm start
+git add .
+git commit -m "connect -mongo"
+git push -u origin master
+npm i node-sass-middleware
+npm install node-sass-middleware --legacy-peer-deps
+npm i -g node-gyp\
+npm i -g node-gyp
+npm install node-sass-middleware --legacy-peer-deps
+npm update
+npm install node-sass-middleware --legacy-peer-deps
+npm i node-sass-middleware@1.0.1
+npm i -g windows-build-tools
+npm install --global --production windows-build-tools --vs2015
+npm start
+git add .
+git commit -m "post controller"
+git push -u origin master
+code .
+npm i node-sass-middleware
+npm install node-gyp@latest
+npm i node-sass-middleware
+npm install node-gyp@6
+npm i node-sass-middleware
+npm install node-sass-middleware --legacy-peer-deps
+npm un node-gyp
+npm install node-gyp@latest -g
+npm install node-sass-middleware --legacy-peer-deps
+npm install --save node-pre-gyp
+npm install node-sass-middleware --legacy-peer-deps
+npm i -g windows-build-tools
+npm config
+npm help config
+npm config list
+npm i -g node-gyp-build
+npm install node-sass-middleware --legacy-peer-deps
+npm un node-pre-gyp
+npm install node-sass-middleware --legacy-peer-deps
+npm install node-sass-middleware@1.0.1
+npm i sass
+npm install node-sass-middleware@1.0.1
+npm i
+git un sass
+npm  un sass
+npm start
+git add .
+git commit -m "comments contolller and virews"
+git push -u origin master
+npm start
+git add .
+git commit -m "comments post deletetion"
+npm start
+git add .
+git commit -m "comments post deletetion"
+git push -u origin master
+npm start
+git add .
+git commit -m "styling"
+git push -u origin master
+npm start
+python contacts.py
+contacts.py
+python contacts.py
+python 2_createApythonClass.py
+python 3.1_adding widget
+python 3.1_adding widget.py
+python 3_1_adding widget.py
+python 2_createApythonClass.py
+python 3_1_adding widget.py
+python 3_1_adding_widget.py
+python 3_2_adding_widget.py
+python 3.1_adding widget
+python 3.1_adding_widget.py
+python runcase.py
+npm start
+mkdir raman
+rmdir -r raman
+npm start
+python runcase.py
+node index.js
+npm init
+npm init --y
+npm i mongoose
+node index.js
+clear
+node index.js
+npm start
+git add .
+git commit -m "styling and user profile"
+git push -u origin master
+node index.js
+node indx.js
+node index.js
+clear
+node index.js
+python runcase.py
+node index.js
+npm start
+git add .
+git commit -m "asyn await"
+git push -u origin master
+global
+node
+node index.js
+node code.js
+node  index.js
+node index.js
+npm i connect-flash
+npm install connect-flash
+npm i noty
+npm start
+git add .
+git commit -m "noty notification"
+git push -u origin master
+npm i 
+npm start
+node index.js
+npm start
+node index.js
+npm init --y
+npm i underscore
+npm i moongoose@^3.2.0
+npm i mongoose@4
+npm un mongoose
+npm i mongoose@~4.12
+npm outdated
+npm update
+npm audit
+npm list
+npm update
+npm list --depth=0
+npm list --depth=1
+npm list --depth=2
+npm i -g npm-check-updates
+npm i -D nodemon
+npm-check-updates
+Set-ExecutionPolicy remotesigned
+npm-check-updates
+ncu -u
+npm outdated -g
+npm list -g
+npm i multer
+npm start
+git add .
+git commit -m "before multer"
+git push -u origin master
+npm init --y
+npm i express
+node index.js
+npm i -g nodemon
+nodemon index.js
+node dash.js
+npm install ejs
+nodemon index.js
+npm start
+git add .
+git commit -m "file upload completed"\
+git commit -m "file upload completed"
+git push -u origin master
+npm start
+git add .
+git commit -m "api making"
+git push - u origin master
+git push -u origin master
+npm start
+node index.js
+nodemon index.js
+npm start
+npm i jsonwebtoken
+npm i passport-jwt
+npm start
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/netflixClone.git
+git push -u origin master
+git pull 
+git add .
+git commit -m "first commit"
+git push -u origin master
+git branch -M master
+git push -u origin master
+npm start
+git add .
+git commit -m "create token"
+npm start
+node index.js
+npm start
+npm list -g
+npm i -D nodemon
+npm start
+npm start passport-google-oauth
+npm i passport-google-oauth
+npm i crypto
+nodemon index.js
+nodemon index.js
+npm i passport-google-oauth
+npm iacrypto
+npm i crypto
+npm start
+git add .
+git commit -m "jwt token"
+git push -u origin master
+npm i passport-google-oauth20
+npm un noty
+npm i crypto
+npm start
+git add .\
+git add .
+git commit -m "ggogle oath 2"
+git push -u origin master
+npm start
+npm i mongoose
+npm start
+clear
+npm start
+npm i nodemailer
+npm start
+npm i nodemailer
+npm start
+git clone https://github.com/rioxraman/netBook
+git add .
+git commit -m "node mailer"
+git push - u origin master
+git push -u origin master
+npm start
+node promises.js
+npm start
+npm i alert
+npm start
+node promises.js
+npm start
+npm i alert
+npm start
+echo "# contactlist" >> README.md
+git init
+npm start
+npm init
+npm install express
+npm start
+echo "# facebookClone" >> README.md
+git init
+npm list
+npm list --depth=1
+git add .
+git commit -m "express server"
+git branch -M master
+git remote add origin https://github.com/rioxraman/facebookClone.git
+git push -u origin master
+git branch
+npm start
+git add .
+git commit -m "express routes"
+git push -u origin master
+npm start
+git add .
+git commit -m "firt contoller"
+git push -u origin master
+npm start
+git log
+git pull
+git log
+git checkout e47fc8ae00a99ad590964b0465a7d3e8ec532753
+git switch -c master
+git checkout master
+git reset head
+git log
+git checkout e47fc8ae00a99ad590964b0465a7d3e8ec532753
+git checkout -b master
+git checkout -b main
+git checkout -b master
+git reset e47fc8ae00a99ad590964b0465a7d3e8ec532753 
+git stash
+git checkout -b master
+git checkout master
+git checkout e47fc8ae00a99ad590964b0465a7d3e8ec532753
+git checkout master
+git reset e47fc8ae00a99ad590964b0465a7d3e8ec532753 
+git stash
+npm start
+npm i ejs
+npm start
+git add .
+git commit -m "contoller first"
+git push -u origin master
+npm i mongoose
+npm i express-ejs-layouts
+npm start
+new-post-form
+npm start
+git add .
+git commit -m "ajax"
+git push -u origin master
+npm start
+npm i cookie-parser
+npm start
+npm un mongoose
+npm i mongoose@6.9.0
+npm start
+git add .
+git commit -m "sign in controller"
+git push -u origin master
+npm start
+npm i 
+npm start
+npm i cors
+npm start
+npm init
+npm install
+npm run build
+npm run deploy
+npm star
+npm start
+npm run deploy
+npm start
+npm un mongoose
+npm i mongoose
+npm start
+git add .
+git commit -m  "async awaitcreate sign user"
+git push -u orgign master
+git push -u origin master
+npm start
+npm un mongoose
+npm i mongoose@5
+npm start
+npm run deploy
+npm start
+git add .
+git commit -m "cookie "
+git push -u origin master
+ npm install passport
+npm install passport-local
+npm i express-session
+npm i express
+npm un express
+npm watch
+npm run watch
+npm run client
+npm start --prefix server
+npm install
+npm i run deploy
+npm run deploy
+npm start
+npm i connect-mongo
+npm start
+git add .
+git commit -m "passport local"
+git push -u origin master
+npm start
+clear
+npm start
+git add .
+git commit -m "chat"
+git push -u origin master
+npm start
+npm run deploy
+npm start
+npm run dev
+npm start
+npm run server
+npm start
+npm i
+npm start
+git add .
+git commit -u push origin master
+git -u push origin master
+git push-u  origin master
+git push -u  origin master
+git add .
+git commit -m "user controller"
+git push -u  origin master
+npm start
+git add . 
+git commit -m "comments views"
+git push -u  origin master
+npm start
+git add .
+git commit -m "post destroy controller"
+git push -u origin master
+npm run deploy
+npm start
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/htmlLearning.git
+git push -u origin master
+git add .
+git commit -m "day2"
+git push -u origin master
+npm start
+git add .
+git commit -m "post view and delete"
+git push -u origin master
+git add .
+git commit -m "list and containers"
+git push -u origin master
+npm start
+git add .
+git commit -m "canvas"
+git add .
+git init
+git add .
+git 
+git push -u origin master
+git add .
+git init
+git add .
+git commit -m "canvas"
+git push -u origin master
+git remote add origin https://github.com/rioxraman/htmlLearning.git
+git push -u origin master
+git branch -M master
+git add .
+git commit -m "canvas"
+git push -u origin master
+git push
+git pull
+git push -u origin master
+npm start
+cd server
+npm start
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/cv.git
+git push -u origin master
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/bookingsite.git
+git push -u origin master
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/travel.git
+git remote set-url origin  https://github.com/rioxraman/travel.git
+git add .
+git commit -m "travel"
+git push -u origin master
+git remote set-url origin https://github.com/rioxraman/travel.git
+git branch -M master
+git add .
+git commit -m "travel"
+git pull
+git init
+git add .
+git commit -m "travel"
+git remote set-url origin https://github.com/rioxraman/travel.git
+git push -u origin master
+npm i mysql
+npm i nodemon dotenv --save-dev
+npm start
+git add .
+git commit -m "css"
+git push -u origin master
+npm init --y
+npm install express
+npm start
+npm i ejs
+npm start
+git add.
+git add .
+git commit -m "user-profile`
+"
+git push -u origin master
+npm start
+git add .
+git commit -m postioning"""
+git push -u origin master
+npm start
+python manage.py
+python
+python contacts.py
+contacts.py
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe "e:/OS/[GigaCourse.Com] Udemy - Python GUI Development with tkinter Build desktop Apps/02 Build a Contacts Database App/contacts.py"
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe "e:/OS/[GigaCourse.Com] Udemy - Python GUI Development with tkinter Build desktop Apps/02 Build a Contacts Database App/icons/contacts.py"
+python musicplayer.py
+pip install pygame
+python musicplayer.py
+python digitalclock.py
+npm start
+mkdir myproject
+cd myproject
+npm init -y
+npm install express ejs
+node app.js
+git config --global user.email "ramanpkgupta@gmail.com"
+ git config --global core.editor "code --wait"
+git config --global -e
+git config --global core.autocrlf true
+git config --global -e
+git config --h
+touch .gitignore
+echo .gitignore
+git init
+ssh -p 65002 u477915700@31.170.160.64
+npm init
+npm init --y
+npm i mongoose
+node index.js
+npm i mongoose
+node index.js
+node fs.js
+node http.js
+npm i nodemon -g
+nodemon index.js
+nodemon https.js
+nodemon https
+ nodemon index.js
+npm start
+npm run start
+node http.js
+node index.js
+nodemon index.js
+npm install express 
+nodemon index.js
+npm init --y
+npm i express-ejs-layouts
+npm i express
+npm i ejs
+npm start
+npm init --y
+npm install express
+npm start
+npm init --y
+npm i express
+npm i mongoose
+npm start
+npm init --y
+npm i express
+npm i mongoose
+npm start
+json-server --watch src/db/db.json --port 3001
+npm i 
+npm i --legacy-peer-deps
+json-server --watch src/db/db.json --port 3001
+npm i --legacy-peer-deps
+json-server --watch src/db/db.json --port 3001
+npm install -g json-server
+npm start
+json-server --watch src/db/db.json --port 3001
+npm init --y
+npm i express
+npm i mongoose
+npm i mongodb
+npm start
+node index.js
+npm start
+npm i --legacy-peer-deps
+npm start
+json-server --watch src/db/db.json --port 3001
+npx create-react-app newReactProject
+new-react-project
+npx create-react-app new-react-project
+cd new-react-project
+npm start
+npm i -g vercel
+vercel
+cercel
+vercel
+npm i
+vercel 
+git clone https://github.com/rioxraman/nodereact.git
+cde nodereact
+cd nodereact
+npm i
+npm start
+git add .
+git commit -m "main"
+git push -u origin main
+npm install --save-dev parcel
+parcel
+npx create-react-app .                                                              
+npm start
+npx create-next-app
+npx create-next-app .
+npx create-next-app nextjs
+ cd nextjs
+npm start
+npm i
+npm start
+npm run dev
+cd nextjs
+npm run dev
+npm create vite@latest .
+npm i
+npm start
+git checkout 23bea4b6d83fa211c889256bc8384ee61d89e0e2
+git stash
+git checkout 23bea4b6d83fa211c889256bc8384ee61d89e0e2
+git log
+git checkout 23bea4b6d83fa211c889256bc8384ee61d89e0e2
+git add .
+git commit -m "bakwas"
+git checkout 23bea4b6d83fa211c889256bc8384ee61d89e0e2
+npm i 
+npm run dev
+npm start
+npm i --legacy-peer-deps
+npm start
+clear
+npm start
+npx create-next-app@latest
+git clone https://github.com/mschwarzmueller/nextjs-course-code.git
+code .
+npm i --legacy-peer-deps
+git clone https://github.com/iamshaunjp/Chakra-UI-Crash-Course.git
+code .
+npm i
+vite
+npm run dev
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm run dev
+git clone https://github.com/poocho-app/cfe.git
+cd cfe
+git clone https://github.com/poocho-app/cfe.git
+mkdir cfe
+cd cfe
+git pull https://github.com/poocho-app/cfe.git
+cd ..
+cd cfe-main
+npm i 
+npm run dev
+code .
+npm run dev
+mkdir about users dashboard
+md users about dashboard
+makedir users about dashboard
+mkdir [about, users,dashboard]
+npm run dev
+npm run dec
+npm run dev
+git init
+git add .
+git commit - m "first commit"
+git commit -m "first commit"
+git branch -M main
+git remote add origin "https://github.com/saibys/chakrauidemo.git"
+git remote set-url origin "https://github.com/saibys/chakrauidemo.git"
+git push -u origin master
+git push -u origin main
+npm run de
+npm run dev
+json-server -w ./data/db.json
+git add .
+git commit-m "Cards"
+git push -u origin main
+git add .
+git commit-m "Cards"
+git commit -m "Cards"
+git push -u origin main
+npm run dev
+git add .
+git commit -m "tabs"
+git push -u origin main
+npm run dev
+json-server -w ./data/db.json
+git add .
+git commit -m "forms"
+git push -u origin main
+json-server -w ./data/db.json
+git add .
+git commit -m "toast"
+git push -u origin main
+json-server -w ./data/db.json
+git add .
+git commit -m "final theme custom"
+git push -u origin main
+npm run dev
+npm i next-auth
+npm run dev
+npm i npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm run dev
+tsc index.js
+tsc index.ts
+tsc --init
+ tsc
+tsc
+tsc --init
+tsc
+python contacts.py
+cd Deesktop
+cd Desktop
+cd gui
+cd Deesktop
+python contacts.py
+git init
+git set origin https://github.com/poocho-app/cfe
+git add .
+git commit -m "first push raman"
+git branch -M ramanxpoocho
+git remote add origin # Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+node_modules
+dist
+dist-ssr
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+git remote add origin https://github.com/poocho-app/cfe.git
+git push -u origin ramanxpoocho
+git remote add origin ramanxpoocho
+git remote add origin https://github.com/poocho-app/cfe.git
+git branch -M ramanxpoocho
+git push -u origin ramanxpoocho
+git remote set-url origin "https://github.com/poocho-app/cfe.git"
+git push -u origin ramanxpoocho
+git config --global user.email "raman@poocho.co"
+git remote set-url origin "https://github.com/poocho-app/cfe.git"
+git push -u origin ramanxpoocho
+git config
+git config -get [user.name | user. email]
+git config -global [user.name | user. email]
+git config --list
+git config --global user.name"`
+riopoocho"
+git config --global user.name "riopoocho"
+git push -u origin ramanxpoocho
+git config --list
+cd ..
+git clone https://github.com/poocho-app/cfe.git
+git clone https://github.com/poocho-app/cfe.git -v
+git clone https://github.com/poocho-app/cfe.git
+npm run dev
+git push -u origin ramanxpoocho
+git pull https://github.com/poocho-app/cfe.git
+git config --list
+git clone https://github.com/poocho-app/cfe.git
+git push -u origin ramanxpoocho
+git add . 
+git commit -m "ui tablre"
+git add . 
+git stash
+git init
+git add . 
+git init
+git add . 
+git init
+git add . 
+git commit -m "ui table"
+git branh -M ramanxpoocho
+git branch -M ramanxpoocho
+git commit -m "ui table"
+git push -u origin ramanxpoocho
+git add . 
+git commit -m "ui table"
+git push -u origin ramanxpoocho
+git remote set origin https://github.com/poocho-app/cfe.git
+git remote add origin https://github.com/poocho-app/cfe.git
+git push -u origin ramanxpoocho
+npm run dev
+json-server -w ./data/db.json
+npm i @chakra-ui/icons
+npm run dev
+npm i 
+npm i react-router-dom
+npm i 
+npm run dev
+json-server -w ./data/db.json
+npm run dev
+npm runn dev
+npm run dev
+npm i bootstrap
+npm i axios
+npm i bootstrap
+npm run dev
+cd ..
+git clone https://github.com/mnzsss/react-chakra-pagination.git
+cd react-chakra-pagination
+code .
+npm i
+npm i --legacy-peer-deps
+npm run dev
+npm i
+npm i --legacy-peer-deps
+npm run dev
+npm start
+git add .
+git commit -m "grid and list view before pagination"
+git push -u origin ramanxpoocho
+npm run dev
+npm i
+npm i react-table
+npm run dev
+ npm start
+git clone https://github.com/trisha86567/todoreact
+cd todoreact
+npm i
+npm run dev
+npm un react-table
+npm i chakra-paginator
+npm i chakra-paginator --legacy-peer-deps
+npm run dev
+npm i --legacy-peer-deps
+npm start
+npm run dev
+npm start
+npm run dev
+json-server --watch db.json --port 5000
+npm start
+git log
+git checkout 717f57288ade0d83d2dd9c73fc49ac9bbd106da3
+git stash
+git checkkout 717f57288ade0d83d2dd9c73fc49ac9bbd106da3
+npx create-next-app .
+npm run dev
+npx create-next-app .
+npm run dev
+npm run de
+npm run dev
+npm start
+npm run dev
+git add .
+git commit -m "participant page" 
+git push -u origin ramanxpoocho
+npm run dev
+java Main.java
+javac Main
+npm run dev
+npm i npm install react-paginate-chakra-ui
+npm install react-paginate-chakra-ui
+npm install react-paginate-chakra-ui --legacy-peer-deps
+npm run dev
+python ./cgen/gen.py
+npm install
+export NODE_ENV=development && npm start
+export NODE_ENV=development ; npm start
+export NODE_ENV="development" ; npm start
+export NODE_ENV=development ; npm start
+set NODE_ENV=development && npm start
+set NODE_ENV=development
+npm start
+npm run dev
+set NODE_ENV=development && npm start
+set NODE_ENV=development ; npm start
+git add .
+git commit -m "participant onclick right pane "
+git push -u origin ramanxpoocho
+set MONGODB_URL=mongodb+srv://admin:AdminsP00ch0DB@cluster0.9xm1ctm.mongodb.net/?retryWrites=true&w=majority
+set MONGODB_URL="mongodb+srv://admin:AdminsP00ch0DB@cluster0.9xm1ctm.mongodb.net/?retryWrites=true&w=majority"
+set NODE_ENV=development ; npm start
+set NODE_ENV=development
+npm start
+npm seed-db
+npm run seed-db
+npm run dev
+npm run seed-db
+git init
+git add .
+git branch -M ramanxpoocho
+git commit -m "next ui compment participant"
+git push -u origin ramanxpoocho
+npm run dev
+npm i
+npm i --legacy-peer-deps
+git add .
+git commit -m implement changes
+git commit -m "implement changes"
+git push -u origin ramanxpoocho
+git pull
+python ./cgen/gen.py
+python ./cgen/gen.py
+npm install
+cd src
+npm install
+set NODE_ENV='development'
+npm run start
+cd ..
+git pull
+python ./cgen/gen.py
+cd src
+set NODE_ENV='development'
+npm install
+set NODE_ENV='development'
+npm run start
+cd src
+npm run start
+npm run seed-db
+git status
+git pull 
+cd ..
+git pull 
+git checkout dev
+git stash
+git checkout dev
+git branch delete_study
+git checkout delete_study
+cd src
+npm install
+npm run start
+python ./cgen/gen.py
+cd src 
+cd.
+cd ..
+python ./cgen/gen.py
+git pull 
+git stash
+git pull 
+git pull dev
+git checkout dev
+git stash
+python ./cgen/gen.py
+python ./cgen/gen.pypython ./cgen/gen.py
+python ./cgen/gen.py
+cd src
+npm i
+git stash
+git checkout branch deleteStudy
+git branch -M deleteStudy
+pip install -r ./cgen/requirements.txt`
+pip install -r ./cgen/requirements.txt
+python ./cgen/gen.py
+pip install -r ./cgen/requirements.txt
+python.exe -m pip install --upgrade pip
+pip install -r ./cgen/requirements.txt
+python ./cgen/gen.py
+cd src
+npm i
+git branch -M deleteStudy
+pip install -r ./cgen/requirements.txt
+cd ..
+pip install -r ./cgen/requirements.txt
+python ./cgen/gen.py
+pip install -r ./cgen/requirements.txt
+python ./cgen/gen.py
+pip install -r ./cgen/requirements.txt
+python ./cgen/gen.py
+cd src 
+npm i
+cd src
+set NODE_ENV='development'
+npm run start
+git add .
+cd ..
+git add .
+git commit -m "delete study"
+git push -u origin deleteStudy
+git init
+git add .
+git branch -M master
+git remote add origin https://github.com/rioxraman/rioxmoshdemo.git
+git push -u origin master
+git commit -m "first commit"
+git push -u origin master
+npm run dev
+npm i bootstrap@5.2.3
+npm run dev
+git add app/study/[slug]/page.tsx
+git status
+git restore --staged app/study/[slug]/page.tsx
+npm run dev
+git add .
+git config --global user.email "ramanpkgupta@gmail.com"
+git config --global user.name "rioxraman"
+git commit -m "compontents"
+git push -u origin master
+npm run dev
+npm i styled-compinents
+npm i styled-components
+npm i @types/styled-components
+npm i --legacy-peer-deps
+npm run "dev:shop-rest"
+npm run dev:shop-rest
+npm run dev
+npm i --legacy-peer-deps
+npm run dev:shop-rest
+yarn dev:shop-gql
+yarn start:dev
+npm i
+npm i --legacy-peer-deps
+yarn dev:shop-gql
+yarn start:dev
+npm start
+npm dev:shop-rest
+npm run dev:shop-rest
+npm create vite@latest
+npm run dev
+git log --oneline
+yarn dev
+npm i
+npm i --legacy-peer-deps
+yarn dev
+npm run dev
+export NODE_OPTIONS=--openssl-legacy-provider
+set NODE_OPTIONS=--openssl-legacy-provider
+npm run dev
+npm i axios
+npm run dev
+git log --oneline
+npm run dev
+npm i react-icons
+yarn start:dev
+yarn
+yarn dev:admin-gql
+yarn dev
+npm i 
+yarn
+npm run dev
+ssh -p 65002 u477915700@31.170.160.64
+npm install
+npm run dev
+npm i 
+npm run dev
+npm i --legacy-peer-deps
+npm run dev
+npm i 
+npm start
+npm i
+npm run dev
+npm run start
+cd mern_react_node_js.html
+mk mern_react_node_js.html
+touch mern_react_node_js.html\
+touch mern_react_node_js.html
+cd ..
+cd company
+npm start
+npm i
+npm start
+cd ..
+npm run dev
+npm run
+npm start
+npm run dev
+npm install axios
+npm run dev
+npm install -D tailwindcss
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+npm i
+npm start
+npm i
+npm start
+ng build
+npm srart
+npm start
+ npm install express --save
+node index.js
+npm strat
+npm start
+npm install mongoose
+npm i express
+npm start
+npm i ejs
+npm install axios
+npm install express mongoose body-parser
+mongod
+node server.js
+npm start
+node server.js
+mongod
+node server.js
+git init
+git branch -m "raman"
+git add .
+git commit -m "first commit"
+git branch -M rioxraman
+git branch -M master
+git commit -m "first commit"
+git remote add origin https://github.com/rioxraman/rioxramnas.git
+git push -u origin master
+git push -u origin rioxraman
+cd C:\Users\user\Desktop\sharan ques\gist
+cd..
+cd users
+cd user
+cd Desktop
+cd sharan ques
+git clone https://github.com/rioxraman/common_slot.git
+git add .
+git commit -m "Initialize website"
+git push origin master
+git add .
+git commit -m "first change"
+git push -u origin main
+echo C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+git add .
+git commit -m "test 1"
+git push -u origin main
+git add .
+git commit -m "test 1"
+git push -u origin main
+git add .
+git commit -m "test 1"
+git push -u origin main
+echo C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+git add .
+git commit -m "testin"
+git push -u origin main
+git pull
+git p
+git pus
+git push
+git pull
+npm init
+cls
+npm install express mysql
+cls
+npm install express
+cls
+npm install express
+cls
+npm install express
+cls
+npm install mysql
+npm install -g nodemon
+cls
+npx index
+cls
+npx nodemon index
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rioxraman/btechtcs.git
+git push -u origin master
+echo C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+git add .
+git commit -m "second commit "
+git push -u origin main
+echo C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+echo C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git push -u origin main
+git commit -m "second commit "
+git push -u origin main
+npm install express --save
+node index.js
+npm install gh-pages --save-dev
+npm start
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit test "
+git push -u origin main
+git add .
+git commit -m "second commit test "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git push -u origin main
+git add .
+git commit -m "second commit "
+git commit -m "second commit test"
+git push -u origin main
+git add .
+git commit -m "second commit test"
+git push -u origin main
+git add .
+git commit -m "second commit test"
+git push -u origin main
+git add .
+git commit -m "second commit test"\
+git push -u origin main
+pip install sphinx
+sphinx-build -b html source builddir
+sphinx-build -b html docs\source builddir
+cd ..
+pip install
+python -m venv spinaxdemoi
+spinaxdemo\Scripts\activate
+cd spinaxdemo
+pip install -r docs/requirements.txt
+pip install -r docs\requirements.txt
+cd ..\
+deactivate
+python -m venv spinaxdemo
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\deactivate\powershell\envVars.txt
+cd spinaxdemo
+Scripts\activate
+pip install -r docs\requirements.txt
+cd docs\source`
+sphinx-build -b html . ..\build
+pip install copybutton
+pip install copycodebutton
+pip install sphinx-copybutton
+sphinx-build -b html . ..\build
+pip install sphinx-copybutton
+sphinx-build -b html . ..\build
+pip install sphinx-tabs
+sphinx-build -b html . ..\build
+code .
+git add .
+git commit -m "second commit test"\
+git commit -m "second commit test"
+git push -u origin main
+git add .
+git commit -m "second commit test"
+git push -u origin main
+scripts\activate
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\deactivate\powershell\envVars.txt
+pip show sphinx_copybutton`
+pip show sphinx_copybutton`
+pip show sphinx-tabs`
+scripts\activate
+sphinx-build -b html ./docs/source build
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\deactivate\powershell\envVars.txt
+sphinx-build -b html ./docs/source build
+scripts\activate
+sphinx-build -b html ./docs/source build
+scripts\activate
+sphinx-build -b html ./docs/source build
+pip install sphinx_nefertiti
+sphinx-build -b html ./docs/source build
+pip install piccolo-theme
+sphinx-build -b html ./docs/source build
+$ pip install piccolo-theme
+ pip install piccolo-theme
+sphinx-build -b html ./docs/source build
+pip install -r requirements.txt
+sphinx-build -b html ./docs/source build
+cd ..
+sphinx-build -b html ./docs/source build
+sphinx-build -b html ./docs/src build
+scripts\activate
+Scripts\activate
+sphinx-build -b html ./docs/src build
+cd spinaxdemo
+sphinx-build -b html ./docs/src build
+scripts\activate
+pip install -r requirements.txt
+sphinx-build -b html ./docs/source build
+sphinx-build -b html ./docs/src build
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.2.1\pythonFiles\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.2.1\pythonFiles\deactivate\powershell\envVars.txt
+sphinx-build -b html ./docs/src build
+scripts\activate
+sphinx-build -b html ./docs/src build
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.2.1\pythonFiles\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.2.1\pythonFiles\deactivate\powershell\envVars.txt
+sphinx-build -b html ./docs/src build
+sphinx-build -b html ./docs/src build\
+cd ..
+code .
+code
+code .
+cd ..
+code .
+sphinx-build -b html ./docs/src build\
+sphinx-build -b html ./docs/source build\
+cd docs
+pip install -r requirements.txt`
+cd ..
+sphinx-build -b html ./docs/source build\
+pip show sphinx-copybutton`
+sphinx-build -b html ./docs/source build\
+pip show sphinx-copybutton`
+pip install -r requirements.txt
+cd docs
+pip install -r requirements.txt
+cd ..
+sphinx-build -b html ./docs/source build\
+sphinx-build -b html ./docs/source build\\
+cd docs
+sphinx-build -b html ./docs/source build\\
+pip install -r requirements.txt
+cd ..
+sphinx-build -b html ./docs/source build\\
+mkdir storefront
+cd storefront
+pipenv install django
+virtualenv env
+pip install virtualenv
+virtualenv env
+.\env\Scripts\activate
+pip install django
+django-admin startproject
+django-admin
+django-admin startproject storefront
+django-admin startproject .
+django-admin startproject storefront
+django-admin startproject .
+django-admin startproject storefront .
+cd .
+cd ..
+django-admin startproject storefront .
+django-admin runserver
+python manage.py runserver
+pipenv --venv
+virtualenv --venv
+django-admin runserver
+python manage.py runserver
+python manage.py startapp playground
+python manage.py startapp playground
+pip install django
+exit
+pip install django
+python manage.py startapp playground
+.\env\Scripts\activate
+cd storefront
+code .
+.\env\Scripts\activate
+python manage.py runserver
+cd ..
+python manage.py runserver
+cd ..
+code .
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+code .
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+.\storefront\env\Scripts\activate
+python manage.py runserver
+.\storefront\env\Scripts\activate
+python manage.py runserver
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+.\storefront\env\Scripts\activate
+python manage.py runserver
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+.\storefront\env\Scripts\activate
+python manage.py runserver
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.4.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '61333' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' 
+ c:; cd 'c:\Users\user\Desktop\students_git\djangodemo'; & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.4.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '61424' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' 
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.4.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '61434' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' 
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+.\storefront\env\Scripts\activate
+echo %VIRTUAL_ENV%
+where python`
+where python
+python manage.py runserver
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62059' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+ c:; cd 'c:\Users\user\Desktop\students_git\djangodemo'; & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62098' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62120' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62137' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62152' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+ & 'c:\Users\user\Desktop\students_git\djangodemo\storefront\env\Scripts\python.exe' 'c:\Users\user\.vscode\extensions\ms-python.debugpy-2024.5.11001012-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '62230' '--' 'C:\Users\user\Desktop\students_git\djangodemo\manage.py' 'runserver' '9000' 
+python -m pip install django-debug-toolbar
+python manage.py runserver
+cd storefront
+cd .
+python manage.py startup store
+cd ..
+python manage.py startup store
+python manage.py startapp store
+python manage.py startapp tags
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+python manage.py runserver
+python manage.py startapp likes
+python manage.py makemigrations
+python manage.py migrate
+.\storefront\env\Scripts\activate
+pip install mysqlclient
+mysql -u root -p rioxraman
+msql
+mysql -u root -p
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+mysql -u root -p
+.\storefront\env\Scripts\activate
+mysql -u root -p
+python manage.py migrate
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+mysql -u root -p
+.\storefront\env\Scripts\activate
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+mysql -u root -p
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+& C:/Users/user/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\user\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+history | grep "git" | tail -n 100 > git_commands.txt
+Get-History | Select-Object -Last 100 | Where-Object {$_.CommandLine -like "*git*"} | ForEach-Object {$_.CommandLine} > git_commands.txt
+Get-Content -Path (Get-Content -Path $env:APPDATA\Git\git-bash-history | Select-Object -Last 100) | Select-String "git" > git_commands.txt
+(Get-Content -Path "$env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt" -TotalCount 100) > last_100_commands.txt`
+cd ..
+cd djangodemo
+cd storfront
